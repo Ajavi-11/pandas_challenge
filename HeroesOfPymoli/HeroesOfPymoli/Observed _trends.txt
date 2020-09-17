@@ -1,0 +1,4 @@
+You must include a written description of three observable trends based on the data.
+1. Men are the majority of the purchase count, but had the fewest average purchase price.
+2. 20-24 year olds make up most of the player count, 44.79% to be exact.
+3. The older the age group (30-34, 35-39) the higher the average total purchase per person.
